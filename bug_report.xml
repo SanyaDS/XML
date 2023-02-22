@@ -1,6 +1,8 @@
 <?xml version = "1.0"?>
-<man>
-	<skills_1>QA</skills_1>
-	<skills_2>English</skills_2>
-	<skills_3>Teamwork</skills_3>
-</man>
+<bug>
+	<id>1</id>
+	<title>Open the site from the link through the banner</title>
+	<steps>Click on the banner</steps>
+	<er>Site opens</er>
+	<ar>Error 404</ar>
+</bug>
