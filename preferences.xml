@@ -1,7 +1,7 @@
 <?xml version = "1.0"?>
-<man>
+<preferences>
 	<movie>Ghostbusters</movie>
 	<series>The lord of the rings</series>
 	<season>Summer</season>
 	<country>USA</country>
-</man>
+</preferences>
