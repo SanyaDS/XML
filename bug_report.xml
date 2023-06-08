@@ -1,0 +1,8 @@
+<?xml version = "1.0"?>
+<bug>
+	<id>1</id>
+	<title>Open the site from the link through the banner</title>
+	<steps>Click on the banner</steps>
+	<er>Site opens</er>
+	<ar>Error 404</ar>
+</bug>
